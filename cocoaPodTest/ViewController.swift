@@ -7,6 +7,7 @@
 
 import UIKit
 
+import TTGTags
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
